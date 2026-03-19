@@ -5,6 +5,9 @@ This project demonstrates a small enterprise network built using Cisco Packet Tr
 
 The network includes VLAN segmentation, inter-VLAN routing, DHCP services, redundancy protocols, and security configurations.
 
+## Topology
+![Network Topology](topology.png)
+
 ## Features
 - VLANs (Management, IT, Sales)
 - Router-on-a-Stick (Inter-VLAN Routing)
