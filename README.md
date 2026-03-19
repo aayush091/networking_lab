@@ -30,3 +30,6 @@ The network includes VLAN segmentation, inter-VLAN routing, DHCP services, redun
 
 ## Author
 Aayush Dhakal
+🔗 LinkedIn: https://www.linkedin.com/in/aayush-dhakal-526107315  
+🔗 GitHub: https://github.com/aayush091
+
